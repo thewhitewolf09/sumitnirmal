@@ -11,7 +11,7 @@ export const LinksData = [
   {
     title: "LinkedIn",
     icon: <ImLinkedin color='#000000dc' />,
-    link: "https://www.linkedin.com/in/sumit-nirmal-a876641b2/",
+    link: "https://www.linkedin.com/in/sumit-nirmal/",
   },
   {
     title: "Twitter",
