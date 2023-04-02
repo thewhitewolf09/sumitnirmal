@@ -1,47 +1,61 @@
-
+  import goggrabmoney_pic from "..//assets/gograbmoney.png"
+  import stockup_pic from "..//assets/stockup.png"
+  import restauro from "..//assets/restauro.png"
+  import wikisearch from "..//assets/wikisearch.png"
+  import speedtypetest from "..//assets/speedtypetest.png"
+  import todo from "..//assets/todo.png"
+  import portfolio from "..//assets/portfolio.png"
   
   export const ProjectsData = [
     {
-      title: 'Portfolio | Private Project',
-      description: `Fastest Landing page built with React, Next Js and Styled Components. modern monorepo architecture. Minimal design`,
-      image: 'https://erfjs.com/images/protfolio/my_portfolio/img-1.png',
-      GitHub: '',
-      hosted: 'https://erfjs.com',
+      title: 'Gograbmoney | StartUp',
+      description: `Developed a fast, scalable and fully functional professional Cashback and Offers site Gograbmoney, where user can save their money by shopping at their
+      preferred online retailer. `,
+      image: goggrabmoney_pic,
+      GitHub: 'https://github.com/orgs/Gograbmoney/repositories',
+      hosted: 'https://gograbmoney.com',
+    },
+    {
+      title: 'StockUp Stock Market Auction Mechanism',
+      description: `Developed a fully functional stock marketplace platform in MERN Technologies`,
+      image: stockup_pic,
+      GitHub: 'https://github.com/thewhitewolf09/stockup',
+      hosted: 'https://stockupindia.netlify.app/',
     },
     {
       title: 'Animated Portfolio',
       description: `Portfolio website built with React v18.2, Typescript,  react-router-dom v6, framer-motion, react-icons, Scss`,
-      image: 'https://raw.githubusercontent.com/erfjs/animated-portfolio/main/src/assets/example.png',
-      GitHub: 'https://github.com/erfjs/animated-portfolio',
-      hosted: 'https://animated-portfolio.erfjs.com/',
+      image: portfolio,
+      GitHub: 'https://github.com/thewhitewolf09/sumitnirmal',
+      hosted: '',
     },
     {
-      title: 'Personalized Card | Ejbank',
-      description: `You can personalize your bank card as you want. A very interesting program using only HTML, CSS and JavaScript, with which you can change the card name, color and model`,
-      image: 'https://raw.githubusercontent.com/erfjs/ejbank/main/img/example.png',
-      GitHub: 'https://github.com/erfjs/ejbank',
-      hosted: `https://ejbank.erfjs.com`,
+      title: 'Restauro | Hotel Website',
+      description: `Created a restaurant website for Restauro, Used HTML, CSS and JavaScript to create a user interface of Restauro website for online page for Restauro Restaurant. Successfully deployed on the GitHub platform to get it live and running`,
+      image: restauro,
+      GitHub: 'https://github.com/thewhitewolf09/restauro',
+      hosted: `https://thewhitewolf09.github.io/restauro/`,
     },
     {
-      title: 'React Todo List',
-      description: `A simple to-do list app powered by React, Chakra UI, React icons. Save in Local Storage`,
-      image: 'https://raw.githubusercontent.com/erfjs/Todo-list/main/readme/example.png',
-      GitHub: 'https://github.com/erfjs/Todo-list',
-      hosted: 'https://todo-app.erfjs.com',
+      title: 'WikiSeacrh website',
+      description: ` By using this page, we can look for information from Wikipedia using any keyword. Frontend is done by html , css and Javascript and some use of bootstrap`,
+      image: wikisearch,
+      GitHub: 'https://github.com/thewhitewolf09/wikisearch',
+      hosted: 'https://thewhitewolf09.github.io/wikisearch/',
     },
     {
-      title: 'React weather checker',
-      description: `A weather checker app powered by React, Vite, TailWind, Swr, PropType, Dark mode`,
-      image: 'https://raw.githubusercontent.com/erfjs/weather-checker/main/readme/example.png',
-      GitHub: 'https://github.com/erfjs/weather-checker',
-      hosted: `https://weather-checker.erfjs.com`,
+      title: 'Speed Typing Test',
+      description: `Created a page where you may gauge how quickly you type using html ,css and Javascript, Generated random text using REST API`,
+      image: speedtypetest,
+      GitHub: 'https://github.com/thewhitewolf09/speed-typing-test',
+      hosted: `https://thewhitewolf09.github.io/speed-typing-test/`,
     },
     {
-      title: 'Foodstuffs Store',
-      description: `Store Website, built with: React v18.2,react-router-dom v6.3.0, React Icon`,
-      image: 'https://raw.githubusercontent.com/erfjs/foodstuffs_store/main/readme/example2.png',
-      GitHub: 'https://github.com/erfjs/foodstuffs_store',
-      hosted: `https://foodstuffs-store.erfjs.com`,
-    }
+      title: 'ToDo Application',
+      description: `A programme that allows us to keep track of our everyday tasks by adding and removing them, Everything is done in html , css and Javascript . status variable saved in local storage`,
+      image: todo,
+      GitHub: 'https://github.com/thewhitewolf09/todo-application',
+      hosted: `https://thewhitewolf09.github.io/todo-application/`,
+    },
   ];
   

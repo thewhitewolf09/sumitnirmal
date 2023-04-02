@@ -21,6 +21,6 @@ export const LinksData = [
   {
     title: "Instagram",
     icon: <SiInstagram color='#000000dc' />,
-    link: "https://www.instagram.com/nrml_sumit/",
+    link: "https://www.instagram.com/nirml_sumit/",
   },
 ];
