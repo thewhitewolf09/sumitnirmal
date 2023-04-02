@@ -1,17 +1,13 @@
-import { FaReact, FaNodeJs, FaHtml5, FaSass, FaPython } from "react-icons/fa";
+import { FaReact, FaHtml5, FaSass, FaPython } from "react-icons/fa";
 import { DiNodejs } from "react-icons/di"
 import { SiCplusplus, SiCoursera, SiPostgresql,SiMongodb, SiArduino, SiFigma, SiVisualstudio, SiGithub, SiMicrosoftoffice } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io";
 import {
   SiRedux,
   SiCss3,
-  SiNextdotjs,
-  SiTypescript,
   SiPostman,
   SiBootstrap,
   SiMaterialui,
-  SiPwa,
-  SiElectron,
 } from "react-icons/si";
 import { AiFillAndroid } from "react-icons/ai";
 import { ImGit } from "react-icons/im";
