@@ -5,8 +5,25 @@
   import speedtypetest from "..//assets/speedtypetest.png"
   import todo from "..//assets/todo.png"
   import portfolio from "..//assets/portfolio.png"
-  
+  import teamtasker from "..//assets/teamtasker.png"
+  import peerhire from "..//assets/peerhire.png"
+
   export const ProjectsData = [
+    {
+      title: 'PeerHire | Startup',
+      description: `PeerHire is a peer-to-peer freelancing platform that connects college students with each other to offer and complete various freelance services. The platform offers a wide range of services, including web development, graphic design, content writing, social media management, tutoring, and more.`,
+      image: peerhire,
+      GitHub: 'https://github.com/PeerHire',
+      hosted: 'https://peerhire.online/',
+    },
+    {
+      title: 'TeamTasker',
+      description: `Developed a fully functional website where you can create Tasks, assignments and assign them to your team members. Where you can collaborate with real-time and 
+      and track your task and notifications.`,
+      image: teamtasker,
+      GitHub: 'https://github.com/thewhitewolf09/Team-tasker-client',
+      hosted: 'https://teamtasker.netlify.app/',
+    },
     {
       title: 'Gograbmoney | StartUp',
       description: `Developed a fast, scalable and fully functional professional Cashback and Offers site Gograbmoney, where user can save their money by shopping at their
@@ -24,7 +41,7 @@
     },
     {
       title: 'Animated Portfolio',
-      description: `Portfolio website built with React v18.2, Typescript,  react-router-dom v6, framer-motion, react-icons, Scss`,
+      description: `Portfolio website built with React v18.2, Javascript,  react-router-dom v6, framer-motion, react-icons, Scss`,
       image: portfolio,
       GitHub: 'https://github.com/thewhitewolf09/sumitnirmal',
       hosted: '',

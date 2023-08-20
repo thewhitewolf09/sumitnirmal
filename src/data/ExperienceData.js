@@ -1,7 +1,17 @@
 export const ExperienceData = [
   {
+    title: "Founder | PeerHire",
+    date: " Feb 2023 - Present",
+    details: [
+      "Building a Peer to peer network for freelancing in Colleges",
+      "Developing a MVP for the startup, where user can connect and collaborate with each other to leverage their skills and earn a decent income while studying.",
+      "Working on both frontend and backend side of developing the PeerHire website using MERN (Mongo DB, Express JS, React JS, Node JS) technology.",
+      "Ensuring Security of The money which will be held during the project timeline by the trusted, safe and secured Escrow Bank",
+    ],
+  },
+  {
     title: "Founder | Gograbmoney",
-    date: " Feb 2022 - Present",
+    date: " Feb 2022 - Feb 2023",
     details: [
       "Developed a fast, scalable and fully functional website",
       "Developing a professional Cashback and Offers site Gograbmoney, where user can save their money by shopping at their preferred online retailer.",
