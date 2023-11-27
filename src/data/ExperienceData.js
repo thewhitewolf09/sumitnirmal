@@ -3,8 +3,8 @@ export const ExperienceData = [
     title: "Founder | PeerHire",
     date: " Feb 2023 - Present",
     details: [
-      "Building a Peer to peer network for freelancing in Colleges",
-      "Developing a MVP for the startup, where user can connect and collaborate with each other to leverage their skills and earn a decent income while studying.",
+      "Building a Peer-to-Peer Network for Freelancing in Colleges",
+      "Developing an MVP for the startup, where users can connect and collaborate with each other to leverage their skills and earn a decent income while studying.",
       "Working on both frontend and backend side of developing the PeerHire website using MERN (Mongo DB, Express JS, React JS, Node JS) technology.",
       "Ensuring Security of The money which will be held during the project timeline by the trusted, safe and secured Escrow Bank",
     ],
@@ -13,17 +13,17 @@ export const ExperienceData = [
     title: "Founder | Gograbmoney",
     date: " Feb 2022 - Feb 2023",
     details: [
-      "Developed a fast, scalable and fully functional website",
+      "Developed a fast, scalable, and fully functional website",
       "Developing a professional Cashback and Offers site Gograbmoney, where user can save their money by shopping at their preferred online retailer.",
       "Working on both frontend and backend side of developing the Gograbmoney website using MERN (Mongo DB, Express JS, React JS, Node JS) technology.",
-      "Ensured Security of User-Login credentials using JWT Authentication and by encrypting password through bcrypt. ",
+      "Ensured Security of User-Login credentials using JWT Authentication and by encrypting passwords through Bcrypt. ",
     ],
   },
   {
     title: "Frontend Developer Intern | Density",
     date: "Nov 2022 - Present",
     details: [
-      "Developed a fully functional Blockchain based Sports player marketplace platform",
+      "Developed a fully functional Blockchain-based Sports player marketplace platform",
       "Designed and implemented front-end features for a blockchain-based sports player stock trading and pool/parlay game platform. My contributions helped create a secure, transparent, and engaging user experience.",
       "I worked on the UI design and integration of various features for an Admin Dashboard and Mobile App in React Native and ReactJs, including contest creation, bot usage, filtering and sorting players, navigation, and wallet management.",
       "I also contributed to the integration of Sign In and Sign Up validation, OTP verification, and Parlay Games features. My work helped improve the user experience and functionality of the applications.",
@@ -34,9 +34,9 @@ export const ExperienceData = [
     date: "July 2022-Aug 2022",
     details: [
       "Created web and server interface of notification system",
-      "Actively involved in the complete development of Notification System of the website, include design, implementation, testing and deployment.",
+      "Actively involved in the complete development of the Notification System of the website, including design, implementation, testing, and deployment.",
       "Used React to create a user interface of AgriVision4U website, developed backend logic using NodeJS and APIs connected with MongoDB database to keep track of user’s data.",
-      "Worked with the backend team to integrate the frontend interface with the backend server to develop a complete dynamic website.",
+      "Worked with the backend team to integrate the frontend interface with the backend server to develop a completely dynamic website.",
     ],
   },
 ];

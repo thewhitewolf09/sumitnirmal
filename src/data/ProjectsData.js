@@ -7,6 +7,7 @@
   import portfolio from "..//assets/portfolio.png"
   import teamtasker from "..//assets/teamtasker.png"
   import peerhire from "..//assets/peerhire.png"
+  import comicstrip from "..//assets/comicstrip.png"
 
   export const ProjectsData = [
     {
@@ -16,6 +17,13 @@
       GitHub: 'https://github.com/PeerHire',
       hosted: 'https://peerhire.online/',
     },
+    {
+      "title": "Comic Strip Generator",
+      "description": "Create and share your own 10-panel comic strip by entering text into a user-friendly form. Utilizing a text-to-image API, the application generates vivid comic panels from your input. Responsive and functional on both desktop and mobile browsers.",
+      "image": comicstrip, 
+      "GitHub": "https://github.com/thewhitewolf09/comic-strip-generator",
+      "hosted": "https://comicstrip.netlify.app/"
+    },    
     {
       title: 'TeamTasker',
       description: `Developed a fully functional website where you can create Tasks, assignments and assign them to your team members. Where you can collaborate with real-time and 
