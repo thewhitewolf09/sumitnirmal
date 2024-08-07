@@ -8,8 +8,53 @@
   import teamtasker from "..//assets/teamtasker.png"
   import peerhire from "..//assets/peerhire.png"
   import comicstrip from "..//assets/comicstrip.png"
+   import navjobImage from "..//assets/navjob.png"
+import companyWebsiteImage from "..//assets/cograd.png"
+import meraBachhaImage from "..//assets/merabachha.png"
+import teacherTrackingAppImage from "..//assets/teachertracking.png"
+import erpSystemImage from "..//assets/erp.png"
 
   export const ProjectsData = [
+    {
+  title: 'NavJob | Job Recruitment Portal',
+  description: `NavJob is a job recruitment portal developed using the MERN stack. It facilitates job seekers in finding suitable job opportunities and enables employers to post job vacancies and manage the recruitment process efficiently.`,
+  image: navjobImage,
+  GitHub: 'https://github.com/Krishnakr44/Navjobs_Frontend',
+  hosted: 'https://demonavjobportal.netlify.app/',
+},
+
+{
+  title: 'Cograd Main Website',
+  description: `The main website for our company, created using React. It serves as the primary online presence, providing information about our services, team, and contact details.`,
+  image: companyWebsiteImage, // Replace with the actual image variable
+  GitHub: 'https://github.com/thewhitewolf09/cograd',
+  hosted: 'https://cograd.netlify.app/',
+},
+
+{
+  title: 'Mera Bachha App | Student Progress Tracking',
+  description: `Mera Bachha is an app developed using React Native to track the progress of students. It includes features for monitoring progress reports, handling complaints, managing fees, and tracking attendance.`,
+  image: meraBachhaImage,
+  GitHub: 'https://github.com/thewhitewolf09/merabachhaapp',
+  hosted: 'https://play.google.com/store/apps/details?id=com.merabachhaapp', 
+},
+
+{
+  title: 'Teacher Tracking App',
+  description: `A comprehensive app built using React Native to track teacher data. The app includes features for attendance tracking, syllabus status monitoring, collecting student feedback, managing timetables, and tracking login activities.`,
+  image: teacherTrackingAppImage, 
+  GitHub: 'https://github.com/thewhitewolf09/teacher-tracking-app',
+  hosted: 'https://play.google.com/store/apps/details?id=com.cogradteachingtrack',
+},
+
+{
+  title: 'ERP System | School/College Management',
+  description: `Currently working on an ERP system using the MERN stack. The system aims to manage all data related to schools or colleges, including student information, faculty details, administrative tasks, and more.`,
+  image: erpSystemImage,
+  GitHub: 'https://github.com/VarunUpadhyay802/cograd-erp-backend',
+  hosted: 'https://erp-frontend-eta.vercel.app/', 
+},
+
     {
       title: 'PeerHire | Startup',
       description: `PeerHire is a peer-to-peer freelancing platform that connects college students with each other to offer and complete various freelance services. The platform offers a wide range of services, including web development, graphic design, content writing, social media management, tutoring, and more.`,
