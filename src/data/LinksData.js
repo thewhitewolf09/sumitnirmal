@@ -16,7 +16,7 @@ export const LinksData = [
   {
     title: "Twitter",
     icon: <FaTwitter color='#000000dc' />,
-    link: "https://twitter.com/SumitNi69646823",
+    link: "https://x.com/nirml_sumit",
   },
   {
     title: "Instagram",
