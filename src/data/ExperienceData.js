@@ -32,7 +32,7 @@ export const ExperienceData = [
   },
   {
     title: "Frontend Developer Intern | Density",
-    date: "Nov 2022 - Present",
+    date: "Nov 2022 - Apr 2023",
     details: [
       "Developed a fully functional Blockchain-based Sports player marketplace platform",
       "Designed and implemented front-end features for a blockchain-based sports player stock trading and pool/parlay game platform. My contributions helped create a secure, transparent, and engaging user experience.",
