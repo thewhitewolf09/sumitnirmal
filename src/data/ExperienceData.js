@@ -1,5 +1,16 @@
 export const ExperienceData = [
   {
+    title: "Software Engineer | Cograd",
+    date: " May 2024 - Present",
+    details: [
+      "NavJob: Developed a job recruitment portal using the MERN stack.",
+      "Main Website: Created the main company website using React.",
+      "Mera Bachha App: Developed an app to track the progress of students, including their progress reports, complaints, fees, and attendance, using React Native.",
+      "Teacher Tracking App: Built an app for tracking teacher data such as attendance, syllabus status, student feedback, timetable, and login tracking, using React Native.",
+      "ERP System: Currently working on an ERP system to manage all data related to schools or colleges, using the MERN stack."
+    ],
+  },
+  {
     title: "Founder | PeerHire",
     date: " Feb 2023 - Present",
     details: [
